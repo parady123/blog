@@ -1,6 +1,6 @@
 import { AppBar, Box, Button, IconButton, Link, Toolbar, Typography } from '@mui/material'
 import React from 'react'
-import axios from 'axios'
+
 const Home = () => {
   return (
     <div>
